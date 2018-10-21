@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?><registor>
+<user id="5">
+<userId>11</userId>
+<userName>22</userName>
+<email>33</email>
+<password>44</password>
+</user>
+<user id="66">
+<userId>ss</userId>
+<userName>ss</userName>
+<email>ss</email>
+<password>ss</password>
+</user>
+<user id="5">
+<userId>dd</userId>
+<userName>dd</userName>
+<email>dd</email>
+<password>dd</password>
+</user>
+<user id="5">
+<userId>ee</userId>
+<userName>ee</userName>
+<email>ee</email>
+<password>ee</password>
+</user>
+<user id="60">
+<userId>33</userId>
+<userName>11</userName>
+<email>22</email>
+<password>44</password>
+</user>
+<user id="37">
+<userId>44</userId>
+<userName>11</userName>
+<email>33</email>
+<password>55</password>
+</user>
+<user id="72">
+<userId>ll</userId>
+<userName>11</userName>
+<email>vv</email>
+<password>456789</password>
+</user>
+<user id="38">
+<userId>hxx</userId>
+<userName>hxx</userName>
+<email>123456</email>
+<password>He123456</password>
+</user>
+<user id="43">
+<userId>6564</userId>
+<userName>111</userName>
+<email>dyh@152.com</email>
+<password>132564Hx</password>
+</user>
+<user id="19">
+<userId>4564</userId>
+<userName>11</userName>
+<email>38978@qq.com</email>
+<password>Av12345666</password>
+</user>
+<user id="11">
+<userId>12314</userId>
+<userName>111</userName>
+<email>12485@qq.com</email>
+<password>sdafhQQ123</password>
+</user>
+<user id="60">
+<userId>hawke</userId>
+<userName>123456</userName>
+<email>123456@164.com</email>
+<password>Hawke_9123</password>
+</user>
+<user id="20">
+<userId>5665</userId>
+<userName>123456</userName>
+<email>45868@qq.com</email>
+<password>Qh456789</password>
+</user>
+<user id="78">
+<userId>123456Q</userId>
+<userName>123456</userName>
+<email>123456@qq.com</email>
+<password>123456@Qq</password>
+</user>
+</registor>
