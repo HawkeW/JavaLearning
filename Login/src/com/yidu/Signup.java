@@ -15,32 +15,16 @@ import java.util.Scanner;
 
 public class Signup {
 
-    public ArrayList<User> parseXML(){
-        SAXParserFactory factory = SAXParserFactory.newInstance();
-        SAXParserHandler handler = null;
-        try{
-            SAXParser parser = factory.newSAXParser();
-            handler = new SAXParserHandler();
-            parser.parse("src/res/users.xml",handler);
-        } catch (ParserConfigurationException e) {
-            e.printStackTrace();
-        } catch (IOException e) {
-            e.printStackTrace();
-        } catch (SAXException e) {
-            e.printStackTrace();
-        }
-        return handler.getUserList();
-    }
 
-
-    public void Signup() {
-        ArrayList<User> userList = parseXML();
+    public void signUp() {
+        User user1 =new User();//新注册用户
+        ArrayList<User> userList = user1.presentUser();;
         Random r = new Random();
         int random = r.nextInt(100);
 
         isValue isvalue = new isValue();
 
-        User user1 =new User();//新注册用户
+
 
         try {
             Scanner read = new Scanner(System.in);

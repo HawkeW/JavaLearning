@@ -83,4 +83,22 @@
 <email>123456@qq.com</email>
 <password>123456@Qq</password>
 </user>
+<user id="74">
+<userId>hx456</userId>
+<userName>123456q</userName>
+<email>8975316@qq.com</email>
+<password>Qq56478@</password>
+</user>
+<user id="83">
+<userId>hughe_9</userId>
+<userName>hughe</userName>
+<email>8978w@123.com</email>
+<password>8978785@Qq</password>
+</user>
+<user id="64">
+<userId>hughe_1</userId>
+<userName>hughe1</userName>
+<email>89755@qq.com</email>
+<password>Hughe_99</password>
+</user>
 </registor>
