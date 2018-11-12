@@ -1,4 +1,7 @@
-package cn.itcast.list;
+package com.hughe.learn;
+
+import java.util.ArrayList;
+
 /*
 集合：存储对象数据的集合容器
 
@@ -72,5 +75,17 @@ class Person{
 	
 }
 public class Demo1 {
+	public static void main(String [] args) {
+		ArrayList<String> list = new ArrayList<String>();
+		list.add("aaa");
+		list.add("bbb");
+		list.add("ccc");
+//		list.add(222); //泛型限制了其他数据类型的输入
+		
+		for (String l : list) {
 
+			System.out.println(l.toUpperCase());
+		}
+	}
+	
 }
