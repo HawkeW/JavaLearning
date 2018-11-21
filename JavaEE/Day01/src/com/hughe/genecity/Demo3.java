@@ -26,6 +26,7 @@ class Mylist<T>{
 	}
 }
 public class Demo3 {
+	/*
 	public static void main(String [] args) {
 		Mylist<String> list = new Mylist<String>();
 		list.add("123");
@@ -33,4 +34,6 @@ public class Demo3 {
 		Mylist list1 = new Mylist<>();
 		
 	}
+	*/
+	
 }

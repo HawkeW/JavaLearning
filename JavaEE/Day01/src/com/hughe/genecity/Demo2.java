@@ -15,6 +15,7 @@ package com.hughe.genecity;
 	
  */
 public class Demo2 {
+	/*
 	public static void main(String[] args) {
 		Object i = print(12);//实际的返回值是对象而不是对应的数据类型
 		Object str = print("abc");
@@ -22,6 +23,7 @@ public class Demo2 {
 		Integer i1 = printf(12);
 		String str1 = printf("abc");
 	}
+	*/
 
 	public static Object print(Object o) {
 		return o;
